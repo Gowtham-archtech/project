@@ -1,0 +1,17 @@
+# Project Features List
+
+## Completed Features
+- User authentication system
+- Dashboard interface
+- Data storage module
+
+## In Development
+- API endpoints
+- Real-time notifications
+- Search functionality
+
+## Planned Features
+- Mobile app
+- Analytics dashboard
+- Export functionality
+- Multi-language support
